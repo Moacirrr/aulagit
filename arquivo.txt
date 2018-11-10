@@ -4,4 +4,6 @@ Outra linha do arquivo.txt
 
 Alteracao para ser mantida ao realizar o RESET
 
-Alteacao para o stash
+Alteracao para o stash
+
+Alteracao que aconteceu na branch DEV
