@@ -1,9 +1,5 @@
-Alterado primeira linha do projeto
-
-Outra linha do arquivo.txt
-
-Alteracao para ser mantida ao realizar o RESET
+Outra linha do arquivo.txt ----
 
 Alteracao para o stash
 
-Alteracao que aconteceu na branch DEV
+Alteracao  na branch DEV
