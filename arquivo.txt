@@ -5,3 +5,6 @@ Outra linha do arquivo.txt ----
 Alteracao para o stash
 
 Alteracao  na branch DEV
+
+
+Commit para exemplo
