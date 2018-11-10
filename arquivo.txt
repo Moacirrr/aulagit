@@ -1,3 +1,7 @@
 Alterado primeira linha do projeto
 
-Oura linha do arquivo.txt
+Outra linha do arquivo.txt
+
+Alteracao para ser mantida ao realizar o RESET
+
+Alteacao para o stash
