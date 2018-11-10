@@ -1,3 +1,5 @@
+----master
+hrelooooo22222
 Outra linha do arquivo.txt ----
 
 Alteracao para o stash
